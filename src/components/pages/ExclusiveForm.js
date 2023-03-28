@@ -1,8 +1,5 @@
 import React from 'react'
 
-//add a location function(throws an alert) to request access to location based members exclusivity
-
-
 const ExclusiveForm = () => {
   return (
     <div>
@@ -11,7 +8,10 @@ const ExclusiveForm = () => {
   )
 }
 
+export default ExclusiveForm
 
+
+//add a location function(throws an alert) to request access to location based members exclusivity
 
 // import { useState } from "react";
 // import "./MoviesForm.css";
